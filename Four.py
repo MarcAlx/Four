@@ -90,7 +90,7 @@ class Application(object):
         self._tk.mainloop()
     
     def about(self):
-        tkinter.messagebox.showinfo("About", "Developed by\n\nMarc-Alexandre Blanchard\n\nmarc.alexandre.blanchard.pro@gmail.com")
+        tkinter.messagebox.showinfo("About", "Developed by\n\nMarc-Alexandre Blanchard")
     
     def createMenuBar(self):
         self.menubar = Menu(self._tk)

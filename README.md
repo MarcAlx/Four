@@ -6,7 +6,7 @@ A simple Tetris-like game made with Python3 (tkinter)
 ![ui](screenshots/four1.png "ui")
 
 ## Possible improvements
- - Comment into code
+ - More comments line into Four.py
 
 ## License
 
